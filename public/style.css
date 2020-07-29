@@ -1,0 +1,353 @@
+/* AUTHOR : HASEEB ALAM RAFIQ */
+@media only screen and (min-width: 1100px) { 
+html , body {
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+    background-color: #341f97 !important;
+}
+.head {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    height: 70vh;
+}
+.wrap1 {
+    width: 20%;
+}
+.first-ip {
+    background-color: transparent;
+    border: none;
+    border-bottom: 2px solid #fff;
+    width: 95%;
+    margin-bottom: 15px;
+    padding: 5px;
+    font-size: x-large;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #fff;
+    text-align: center;
+    
+}
+
+.startbt {
+    display: block;
+    text-align: center;
+    border-radius: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: large;
+    font-weight: bold;
+    border: none;
+    width: 70%;
+    margin: 0 auto;
+    color: #341f97;
+    padding: 5px;
+    transition: 0.4s all;   
+}
+.first-ip:focus {
+    outline: none;
+}
+.startbt:focus {
+    outline: none;
+}
+
+.startbt:hover {
+    transform: translateY(-3px);
+    cursor: pointer;
+}
+}
+
+@media only screen and (max-width: 1199px) and (min-width: 992px){
+    html , body {
+        margin: 0;
+        padding: 0;
+        overflow-x: hidden;
+        background-color: #341f97 !important;
+    }
+    .head {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        width: 100vw;
+        height: 53vh;
+    }
+    .wrap1 {
+        width: 20%;
+    }
+    .first-ip {
+        background-color: transparent;
+        border: none;
+        border-bottom: 2px solid #fff;
+        width: 95%;
+        margin-bottom: 15px;
+        padding: 5px;
+        font-size: x-large;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        color: #fff;
+        text-align: center;
+        
+    }
+    
+    .startbt {
+        display: block;
+        text-align: center;
+        border-radius: 20px;
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        font-size: large;
+        font-weight: bold;
+        border: none;
+        width: 70%;
+        margin: 0 auto;
+        color: #341f97;
+        padding: 5px;
+        transition: 0.4s all;   
+    }
+    .first-ip:focus {
+        outline: none;
+    }
+    .startbt:focus {
+        outline: none;
+    }
+    
+    .startbt:hover {
+        transform: translateY(-3px);
+        cursor: pointer;
+    }
+}
+
+@media only screen and (max-width: 991px) and (min-width: 712px){
+
+    html , body {
+        margin: 0;
+        padding: 0;
+        overflow-x: hidden;
+        background-color: #341f97 !important;
+    }
+    .head {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        width: 100vw;
+        height: 53vh;
+    }
+    .wrap1 {
+        width: 50%;
+    }
+    .first-ip {
+        background-color: transparent;
+        border: none;
+        border-bottom: 2px solid #fff;
+        width: 95%;
+        margin-bottom: 15px;
+        padding: 5px;
+        font-size: x-large;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        color: #fff;
+        text-align: center;
+        
+    }
+    
+    .startbt {
+        display: block;
+        text-align: center;
+        border-radius: 20px;
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        font-size: large;
+        font-weight: bold;
+        border: none;
+        width: 70%;
+        margin: 0 auto;
+        color: #341f97;
+        padding: 5px;
+        transition: 0.4s all;   
+    }
+    .first-ip:focus {
+        outline: none;
+    }
+    .startbt:focus {
+        outline: none;
+    }
+    
+    .startbt:hover {
+        transform: translateY(-3px);
+        cursor: pointer;
+    }
+}
+
+@media only screen and (max-width: 711px) and (min-width: 536px){
+
+    html , body {
+        margin: 0;
+        padding: 0;
+        overflow-x: hidden;
+        background-color: #341f97 !important;
+    }
+    .head {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        width: 100vw;
+        height: 53vh;
+    }
+    .wrap1 {
+        width: 70%;
+    }
+    .first-ip {
+        background-color: transparent;
+        border: none;
+        border-bottom: 2px solid #fff;
+        width: 95%;
+        margin-bottom: 15px;
+        padding: 5px;
+        font-size: x-large;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        color: #fff;
+        text-align: center;
+        
+    }
+    
+    .startbt {
+        display: block;
+        text-align: center;
+        border-radius: 20px;
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        font-size: large;
+        font-weight: bold;
+        border: none;
+        width: 70%;
+        margin: 0 auto;
+        color: #341f97;
+        padding: 5px;
+        transition: 0.4s all;   
+    }
+    .first-ip:focus {
+        outline: none;
+    }
+    .startbt:focus {
+        outline: none;
+    }
+    
+    .startbt:hover {
+        transform: translateY(-3px);
+        cursor: pointer;
+    }
+}
+
+@media only screen and (max-width: 535px) and (min-width: 508px){
+    html , body {
+        margin: 0;
+        padding: 0;
+        overflow-x: hidden;
+        background-color: #341f97 !important;
+    }
+    .head {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        width: 100vw;
+        height: 53vh;
+    }
+    .wrap1 {
+        width: 50%;
+    }
+    .first-ip {
+        background-color: transparent;
+        border: none;
+        border-bottom: 2px solid #fff;
+        width: 95%;
+        margin-bottom: 15px;
+        padding: 5px;
+        font-size: x-large;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        color: #fff;
+        text-align: center;
+        
+    }
+    
+    .startbt {
+        display: block;
+        text-align: center;
+        border-radius: 20px;
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        font-size: large;
+        font-weight: bold;
+        border: none;
+        width: 70%;
+        margin: 0 auto;
+        color: #341f97;
+        padding: 5px;
+        transition: 0.4s all;   
+    }
+    .first-ip:focus {
+        outline: none;
+    }
+    .startbt:focus {
+        outline: none;
+    }
+    
+    .startbt:hover {
+        transform: translateY(-3px);
+        cursor: pointer;
+    }
+}
+
+@media only screen and (max-width: 507px) {
+
+    html , body {
+        margin: 0;
+        padding: 0;
+        overflow-x: hidden;
+        background-color: #341f97 !important;
+    }
+    .head {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        width: 100vw;
+        height: 53vh;
+    }
+    .wrap1 {
+        width: 50%;
+    }
+    .first-ip {
+        background-color: transparent;
+        border: none;
+        border-bottom: 2px solid #fff;
+        width: 95%;
+        margin-bottom: 15px;
+        padding: 5px;
+        font-size: x-large;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        color: #fff;
+        text-align: center;
+        
+    }
+    
+    .startbt {
+        display: block;
+        text-align: center;
+        border-radius: 20px;
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        font-size: large;
+        font-weight: bold;
+        border: none;
+        width: 70%;
+        margin: 0 auto;
+        color: #341f97;
+        padding: 5px;
+        transition: 0.4s all;   
+    }
+    .first-ip:focus {
+        outline: none;
+    }
+    .startbt:focus {
+        outline: none;
+    }
+    
+    .startbt:hover {
+        transform: translateY(-3px);
+        cursor: pointer;
+    }
+}
+
+
